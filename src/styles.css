@@ -1,0 +1,19 @@
+body {
+    font-size: large;
+}
+
+.webcam-container {
+    width: 100%; 
+    height:100%;
+
+}
+
+.label-container {
+    position: fixed; 
+    left: 50%; 
+    top: 50%; 
+    width: 30%; 
+    height: 30%;
+    font-size: large;
+    color: white;
+}
